@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kishorepran
 - 👀 I’m interested in anything relating to swift, Apple paltforms, Swift at server side, AWS lambda with Swift
-- 🌱 I’m currently learning advanced Swift, Vapour Swift, Swift UI, Combine
+- 🌱 I’m currently learning advanced Swift, Vapour Swift, Swift UI, Modern concurrency
 - 💞️ I’m looking to collaborate on any repo that needs help with features and bug fixes used in iOS applications. Also available to help people in job search improve profile over LinkedIn prepare for iOS interview.
 - 📫 Reach me at kishorepran@gmail.com for contribution related help.
 
